@@ -30,7 +30,7 @@
     "per-env": "^1.0.2",
     "preact-cli": "^3.0.0-rc.6",
     "preact-render-spy": "^1.2.1",
-    "serve": "^11.1.0"
+    "serve": "^13.0.1"
   },
   "dependencies": {
     "preact": "^10.0.1",
